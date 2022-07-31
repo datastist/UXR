@@ -1,4 +1,4 @@
-## "Groupthink" 
+# Groupthink 
 ## Bias ที่ต้องระวังเวลาอยู่กันเป็นกลุ่ม
 
 ในบทความนี้ เราจะพามารู้จัก Groupthink และวิธีการหลีกเลี่ยง พร้อม Case study ที่เจอบ่อยในงาน Research กัน 
@@ -22,7 +22,7 @@
 
 ---
 
-## Groupthink vs Echo chamber 
+## Groupthink vs. Echo chamber 
 
 *หลายคนคงสงสัยว่า Echo Chamber ต่างกับ Groupthink ยังไง ?*
 
