@@ -1,4 +1,4 @@
-# UX : Recuiting Paticipants
+# UX 01 : Recuiting Paticipants
 ในบทความนี้เราจะมาเล่าถึงขั้นตอนสำคัญที่สาย UX ต้องทำก่อนการ Test และสำคัญไม่แพ้กับการ Test เลยนั่นก็คือ 
 
 **การเลือก Participant**
