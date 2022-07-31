@@ -63,7 +63,7 @@ Bias ไม่ใช่สิ่งที่ไม่ดี เพราะ Bias
 อ่านงานวิจัยเพิ่มเติมได้ที่
 
 
-2022 : [The forgotten ‘immortalizer’:Recovering William H Whyte )as the founder and future of groupthink research](https://journals.sagepub.com/doi/pdf/10.1177/00187267211070680?fbclid=IwAR3pdrw3emdmWF0tOcAOydVaK8nblGjx_daF6OFBGKZxqNnLv_cZpNA7nSg)
+2022 : [The forgotten ‘immortalizer’:Recovering William H Whyte as the founder and future of groupthink research](https://journals.sagepub.com/doi/pdf/10.1177/00187267211070680?fbclid=IwAR3pdrw3emdmWF0tOcAOydVaK8nblGjx_daF6OFBGKZxqNnLv_cZpNA7nSg)
 
 2013 : 
 [Do Usability Professionals Think about User Experience in the Same Way as Users and Developers Do?](https://link.springer.com/content/pdf/10.1007/978-3-642-40480-1_31.pdf?fbclid=IwAR3ZXSUPGidbLZgPbMyFezg7kMeDMDXdlVAfibsrUyhKTmcGRjoYWk4HZUg)
