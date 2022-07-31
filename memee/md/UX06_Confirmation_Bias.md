@@ -1,4 +1,6 @@
-# UX 05 : Confirmation Bias สิ่งที่ต้องระวังในงาน Research
+# UX 05 : Biases 01 Confirmation Bias 
+
+สิ่งที่ต้องระวังในงาน Research
 ในบทความนี้ เราจะพามารู้จัก Confirmation Bias พร้อม Case Study ที่เจอบ่อยในงาน (UX) Research กัน
 
 เพื่อน ๆ หลายคนน่าจะเคยเจอเหตุการณ์ประมาณนี้
