@@ -1,4 +1,4 @@
-## UX 03 : แชร์ Tips การเขียน UX Research Report 
+## UX 03 : Tips in UX Research Report 
 
 Report ของ UX Research ต่างกับ Report ของ Research อื่น ๆ ยังไง มีอะไรที่เราควรรายงานบ้าง มาดูกัน !
 
