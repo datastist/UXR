@@ -1,3 +1,4 @@
-# study_r
+# Articles about UXR 
 
-hi there, I usually upload files in Master branch, so see you there. :)
+Hi there, this place belongs to Cat MEMEE who is the beloved smallest cat. There will be our other Cat who is a former A/B tester too.
+ 
