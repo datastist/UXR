@@ -58,3 +58,14 @@ Groupthink ในบริบทการทำ Research เกิดได้�
 ### อ่านมาถึงตรงนี้ อยากจะฝากทุกคนไว้ว่า..
 
 Bias ไม่ใช่สิ่งที่ไม่ดี เพราะ Bias เป็นกระบวนการปกติของมนุษย์เรา ในการลดระยะเวลาการประมวลข้อมูล และช่วยให้ตัดสินใจเร็วขึ้น แค่เราต้องรู้เท่าทัน และ Aware ไว้ เท่านี้ก็พอ
+
+---
+อ่านงานวิจัยเพิ่มเติมได้ที่
+
+
+2022 : [The forgotten ‘immortalizer’:Recovering William H Whyte )as the founder and future of groupthink research](https://journals.sagepub.com/doi/pdf/10.1177/00187267211070680?fbclid=IwAR3pdrw3emdmWF0tOcAOydVaK8nblGjx_daF6OFBGKZxqNnLv_cZpNA7nSg)
+
+2013 : 
+[Do Usability Professionals Think about User Experience in the Same Way as Users and Developers Do?](https://link.springer.com/content/pdf/10.1007/978-3-642-40480-1_31.pdf?fbclid=IwAR3ZXSUPGidbLZgPbMyFezg7kMeDMDXdlVAfibsrUyhKTmcGRjoYWk4HZUg)
+
+[Using Bibliometric and Social Media Analyses to Explore the “Echo Chamber” Hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0895904813515330?fbclid=IwAR1MhLcKhnKqjjVEc9w1GjVCDPGW0jdBwnzWpP1NzA_vOi7BgcfTlTkv_8o&casa_token=uHCmFwFMZMwAAAAA%3AfIzz-9ivK4-rmak8gPoXCEQxtNdfhF3Kke9iUfZi5Jz54L8d714sSR_WJ85K9xCjkHrHqDbwowNX&journalCode=epxa)
