@@ -1,4 +1,4 @@
-# Groupthink 
+# UX 06 : Groupthink 
 ## Bias ที่ต้องระวังเวลาอยู่กันเป็นกลุ่ม
 
 ในบทความนี้ เราจะพามารู้จัก Groupthink และวิธีการหลีกเลี่ยง พร้อม Case study ที่เจอบ่อยในงาน Research กัน 
