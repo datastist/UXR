@@ -1,4 +1,4 @@
-# UX 08 : User Mental Model 
+# UX 07 : User Mental Model 
 สำคัญยังไงในการออกแบบ Digital Product ?
 
 
